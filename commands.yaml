@@ -1,0 +1,15 @@
+to spin up a normal react app in typescript using vite, you can use the following command:
+
+- npm create vite@latest my-react-app -- --template react-ts
+
+this will create a new react app using vite in typescript.
+- pnpm dlx shadcn@latest add card
+- pnpm add shadcn class-variance-authority clsx tailwind-merge lucide-react tw-animate-css
+
+
+
+to spin up a normal react app in javascript using vite, you can use the following command:
+
+npm create vite@latest my-react-app -- --template react
+
+this will create a new react app using vite in javascript.
