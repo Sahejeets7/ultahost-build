@@ -1,4 +1,22 @@
+
+
+SCREENSHOTS of the re-created UI DESIGN :
+
+
+
+
+<img width="1350" height="963" alt="image" src="https://github.com/user-attachments/assets/8699d505-27b0-430c-bdb8-d7317a52e8c6" />
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+
 
 ## Getting Started
 
