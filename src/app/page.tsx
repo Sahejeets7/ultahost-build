@@ -15,7 +15,7 @@ const innerWrapClass =
    "min-h-screen bg-[#f8f9fa] p-4 md:p-8 lg:p-24 font-sans text-slate-900 justify-center";
 
 const speedWidgetClass =
-   "absolute bottom-1/4 right-4 bg-white rounded-2xl shadow-xl border border-slate-100 p-4 w-30 z-20 flex flex-col items-center";
+   "absolute bottom-1/4 right-10 bg-white rounded-2xl shadow-xl border border-slate-100 p-4 w-30 z-20 flex flex-col items-center";
 
 
 export default function Home() {
