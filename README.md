@@ -4,8 +4,21 @@ SCREENSHOTS of the re-created UI DESIGN :
 
 
 
-
+1.
 <img width="1350" height="963" alt="image" src="https://github.com/user-attachments/assets/8699d505-27b0-430c-bdb8-d7317a52e8c6" />
+
+<img width="1690" height="974" alt="image" src="https://github.com/user-attachments/assets/9443cfd3-15f0-43d2-9353-f33e36f3928e" />
+
+2.
+<img width="1690" height="974" alt="image" src="https://github.com/user-attachments/assets/a1ebc81b-de26-4311-aa5f-e5ea373ff183" />
+
+3. Mobile view
+<img width="1690" height="974" alt="image" src="https://github.com/user-attachments/assets/771a266b-94bb-4146-9aed-a6434eb9ee8a" />
+
+4.
+<img width="1690" height="974" alt="image" src="https://github.com/user-attachments/assets/b8a7cd5c-5654-477e-ac99-75a01a3221aa" />
+
+5. <img width="1690" height="974" alt="image" src="https://github.com/user-attachments/assets/ca4b6887-8c1a-4cb4-bb82-52fbe54e0e3b" />
 
 
 
