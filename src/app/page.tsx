@@ -171,7 +171,7 @@ export default function Home() {
                         {/* Chat Bubble 1 (User) */}
                         <div className="absolute flex items-center bottom-28 left-6 md:left-12 bg-white rounded-2xl shadow-xl p-3 mb-2 gap-3 max-w-[240px] z-20">
                            <div className="w-14 h-15 rounded-full bg-blue-500 overflow-hidden shrink-0 border-2 border-white shadow-sm">
-                              <Image width={100} height={100} src="/person-1.png" alt="User" className="w-full h-full object-cover object-top" />
+                              <Image width={100} height={100} src="/Person-1.png" alt="User" className="w-full h-full object-cover object-top" />
                            </div>
                            <span className="text-xs text-slate-700 font-medium leading-tight">
                               Hello, would you please help me migrate to HostOnce?
@@ -185,7 +185,7 @@ export default function Home() {
                               Sure thing Alex, let's start the migration process for your site.
                            </div>
                            <div className="w-14 h-15 rounded-full bg-green-500 overflow-hidden shrink-0 border-2 border-[#2c2c2e] shadow-sm">
-                              <Image width={100} height={100} src="/person.png" alt="Agent" className="w-full h-full object-cover object-top" />
+                              <Image width={100} height={100} src="/Person.png" alt="Agent" className="w-full h-full object-cover object-top" />
                            </div>
                         </div>
                      </div>
