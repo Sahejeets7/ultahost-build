@@ -69,8 +69,8 @@ export default function Home() {
                               <Image
                                  src="/Vector.png"
                                  alt=""
-                                 width={92}
-                                 height={48}
+                                 width={90}
+                                 height={100}
                                  draggable={false}
                                  className="absolute top-0 left-1/2 -translate-x-1/2 w-[92px] h-auto object-contain pointer-events-none select-none"
                               />
@@ -136,7 +136,7 @@ export default function Home() {
                   }
                   imageSection={
                      <div className="w-full relative mt-auto pt-12 pb-1 overflow-hidden">
-                        <div className="absolute inset-0 bg-linear-to-tr from-green-100/50 via-cyan-50/50 to-white -z-10 rounded-b-[32px] opacity-70"></div>
+                        <div className="absolute inset-0 bg-linear-to-tr from-green-100/50 via-cyan-50/50 to-white -z-10 rounded-b-[32px] opacity-20"></div>
                         {/* Abstract blobs */}
                         <div className="relative flex flex-row m-1">
                            <Image width={100} height={100} src="/card3.png" alt="Agent" className="w-full h-full object-top" />
